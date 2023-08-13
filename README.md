@@ -6,6 +6,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: https://www.linkedin.com/in/erdinc-sari/
 
-[!erdcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdcc)](https://github.com/anuraghazra/github-readme-stats)
+[![erdcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdcc)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erdcc&theme=dark&hide_border=true)](https://git.io/streak-stats)
